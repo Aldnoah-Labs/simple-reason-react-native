@@ -1,0 +1,12 @@
+# ninja log v5
+# start_time end_time mtime command hash
+0	28	1579589232207713281	src/App.reast	8df10cacba0b556d
+28	36	1579589232216041007	src/App.d	52ddd042ccb1ff60
+36	62	1579589232241279171	src/App.cmj	59d8abd8eb78c25
+36	62	1579589232241279171	src/App.cmi	59d8abd8eb78c25
+36	62	1579589232241279171	/Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/src/App.bs.js	59d8abd8eb78c25
+0	38	1579589785598217985	src/App.reast	8df10cacba0b556d
+38	49	1579589785598217985	src/App.d	52ddd042ccb1ff60
+49	78	1579589785598217985	src/App.cmj	59d8abd8eb78c25
+49	78	1579589785598217985	src/App.cmi	59d8abd8eb78c25
+49	78	1579589785598217985	/Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/src/App.bs.js	59d8abd8eb78c25

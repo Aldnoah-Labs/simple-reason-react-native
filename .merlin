@@ -1,0 +1,15 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/bs-platform/lib/ocaml
+B /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib
+FLG -w -30-40+6+7+27+32..39+44+45+101+A-4-40-42
+S /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/reason-react/lib/ocaml
+B /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/reason-react/lib/ocaml
+S /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/reason-react-native/lib/ocaml
+B /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/reason-react-native/lib/ocaml
+S /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/@glennsl/bs-jest/lib/ocaml
+B /Users/mac/Documents/job/aldnoah-labs/simple-reason-react-native/node_modules/@glennsl/bs-jest/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}

@@ -1,0 +1,37 @@
+{
+    "name": "templatesimple",
+    "reason": {
+        "react-jsx": 3
+    },
+    "package-specs": {
+        "module": "commonjs",
+        "in-source": true
+    },
+    "suffix": ".bs.js",
+    "sources": [
+        {
+            "dir": "src",
+            "subdirs": true
+        },
+        {
+            "dir": "__tests__",
+            "subdirs": true,
+            "type": "dev"
+        }
+    ],
+    "bs-dependencies": [
+        "reason-react",
+        "reason-react-native"
+    ],
+    "bs-dev-dependencies": [
+        "@glennsl/bs-jest"
+    ],
+    "bsc-flags": [
+        "-bs-super-errors"
+    ],
+    "warnings": {
+        "number": "+A-4-40-42",
+        "error": "+A"
+    },
+    "rfmt": 3
+}
