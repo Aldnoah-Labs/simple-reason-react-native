@@ -1,35 +1,24 @@
 {
-  "name": "templatesimple",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "android": "yarn clean:re && yarn start:re && react-native run-android",
-    "ios": "yarn clean:re && yarn start:re && react-native run-ios",
-    "start": " react-native start",
-    "start:re": "bsb -make-world",
-    "clean:re": "bsb -clean-world",
-    "test": "jest",
-    "lint": "eslint ."
-  },
-  "dependencies": {
-    "@glennsl/bs-jest": "^0.4.9",
-    "react": "16.9.0",
-    "react-native": "0.61.5",
-    "reason-react": "^0.7.0",
-    "reason-react-native": "^0.61.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.8.3",
-    "@babel/runtime": "^7.8.3",
-    "@react-native-community/eslint-config": "^0.0.6",
-    "babel-jest": "^24.9.0",
-    "bs-platform": "^7.0.1",
-    "eslint": "^6.8.0",
-    "jest": "^24.9.0",
-    "metro-react-native-babel-preset": "^0.58.0",
-    "react-test-renderer": "16.9.0"
-  },
-  "jest": {
-    "preset": "react-native"
-  }
+    "name": "simple-reason-react-native",
+    "version": "0.0.1",
+    "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+    "scripts": {
+        "prepublishOnly": "npm --no-git-tag-version"
+    },
+    "files": [
+        "template",
+        "template.config.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emin93/react-native-template-typescript.git"
+    },
+    "keywords": [
+        "react-native",
+        "reasonml",
+        "template",
+        "boilerplate"
+    ],
+    "author": "Aldnoah team",
+    "license": "MIT"
 }
