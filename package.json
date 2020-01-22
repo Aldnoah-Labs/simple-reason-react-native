@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/emin93/react-native-template-typescript.git"
+        "url": "git+https://github.com/Aldnoah-Labs/simple-reason-react-native"
     },
     "keywords": [
         "react-native",
