@@ -1965,6 +1965,11 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
+decco@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/decco/-/decco-1.1.1.tgz#69e252c3bdf1b6f4f10dd115ba44f25908d0033c"
+  integrity sha512-hif221MrEzLcjguORCYml7CAfCwWap6HuRI4x0G9TSLRoJkkDKc/Qx01JleOzMubOWFK4dbJNmKXR4+S/r3obw==
+
 decode-uri-component@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
@@ -5068,6 +5073,11 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
+react-native-config@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/react-native-config/-/react-native-config-0.12.0.tgz#910e52226b60e0c9f2b648772eea2a93f8701751"
+  integrity sha512-lC8QOZCGCXgFh74uWSVGMaChg+Qf2BScWzVd9C4yrFnfxrHSFyIekqOOq/sjE8Uu2ifgxZmSiK1Z8EEi78AmQA==
+
 react-native@0.61.5:
   version "0.61.5"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.61.5.tgz#6e21acb56cbd75a3baeb1f70201a66f42600bba8"
@@ -5241,6 +5251,21 @@ regjsparser@^0.6.0:
   integrity sha512-E9ghzUtoLwDekPT0DYCp+c4h+bvuUpe6rRHCTYn6eGoqj1LgKXxT6I0Il4WbjhQkOghzi/V+y03bPKvbllL93Q==
   dependencies:
     jsesc "~0.5.0"
+
+relude-parse@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/relude-parse/-/relude-parse-0.7.0.tgz#99d67a595a14bc4b7dc1d910e380d33044175429"
+  integrity sha512-ydsHqaGTfvJqGi5IMmeDNGDHQy2+GdlxiWS1FR6XGwZxl7wnFmjcOO/nOCb+ljqDkk8O5uHiRpBUBfmeXJzLvg==
+
+relude-url@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/relude-url/-/relude-url-0.3.0.tgz#75cb48f0ad6d623eb9202d17ca0088cb6795a804"
+  integrity sha512-iJ92XqjE1whIcY69vKoCm5MfOOWlT40APe94BAUzokbM0ZuGk9EPj5qj9jaYZMJhbCi3umlHFjRBah9dKpt8GA==
+
+relude@^0.52.0:
+  version "0.52.0"
+  resolved "https://registry.yarnpkg.com/relude/-/relude-0.52.0.tgz#5deace65d6a1239662ce0eecdfcea5f84b0189b2"
+  integrity sha512-QHlgXRkPGpu919mXPyVEU8grmJhH5ZXypsUyamarHY7LQeAhphvoLZsBlUzdG5zDHLv+qP7eQTo9CnqARexkFQ==
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
